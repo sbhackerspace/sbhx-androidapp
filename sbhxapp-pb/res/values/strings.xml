@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SBHX</string>
+    <string name="menu_settings">Settings</string>
+    <string name="name_long">Santa Barbara Hackerspace</string>
+    <string name="word_forums">Forums</string>
+    <string name="word_wiki">Wiki</string>
+    <string name="word_website">Website</string>
+    <string name="word_calendar">Calendar</string>
+
+</resources>
