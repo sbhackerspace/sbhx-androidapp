@@ -8,5 +8,19 @@
     <string name="word_wiki">Wiki</string>
     <string name="word_website">Website</string>
     <string name="word_calendar">Calendar</string>
+    <string name="about_us">About SBHX</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_show_pop_up">ShowPopUp</string>
+    <string name="word_popup">popup</string>
+    <string name="simple_popup">This is a simple popup</string>
+    <string name="word_close">close</string>
+    <string name="alert_dialog_two_buttons">OK Cancel dialog with a message</string>
+    <string name="alert_dialog_two_buttons2">OK Cancel dialog with a long message</string>
+    <string name="alert_dialog_two_buttons_msg">About Us</string>
+    <string name="alert_dialog_two_buttons2_msg">This is where the information for the about us bit will go.\n\nMore text here to check the syntax.\n\nAnd a bit more here at the end.</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_hide">Hide</string>
+    <string name="alert_dialog_something">Something</string>
+    <string name="alert_dialog_cancel">Cancel</string>
 
 </resources>
