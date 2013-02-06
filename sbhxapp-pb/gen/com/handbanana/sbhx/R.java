@@ -176,12 +176,15 @@ public final class R {
         public static final int homeButton1=0x7f080001;
         public static final int homeButton2=0x7f080002;
         public static final int homeButton3=0x7f080003;
-        public static final int homeButton4=0x7f080004;
+        public static final int homeButtonMap=0x7f080004;
+        public static final int item_about_us=0x7f08000c;
         public static final int linearLayout1=0x7f080000;
-        public static final int menu_settings=0x7f080009;
+        public static final int menu_settings=0x7f08000b;
         public static final int popup1=0x7f080006;
         public static final int textView1=0x7f080005;
         public static final int textView2=0x7f080007;
+        public static final int webView1=0x7f080009;
+        public static final int webView2=0x7f08000a;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -191,6 +194,7 @@ public final class R {
     public static final class menu {
         public static final int activity_main=0x7f070000;
         public static final int activity_show_pop_up=0x7f070001;
+        public static final int web_view1=0x7f070002;
     }
     public static final class string {
         public static final int about_us=0x7f050007;
@@ -208,9 +212,11 @@ public final class R {
         public static final int name_long=0x7f050002;
         public static final int simple_popup=0x7f05000b;
         public static final int title_activity_show_pop_up=0x7f050009;
+        public static final int title_activity_web_view1=0x7f050015;
         public static final int word_calendar=0x7f050006;
         public static final int word_close=0x7f05000c;
         public static final int word_forums=0x7f050003;
+        public static final int word_map=0x7f050016;
         public static final int word_popup=0x7f05000a;
         public static final int word_website=0x7f050005;
         public static final int word_wiki=0x7f050004;

@@ -22,5 +22,7 @@
     <string name="alert_dialog_hide">Hide</string>
     <string name="alert_dialog_something">Something</string>
     <string name="alert_dialog_cancel">Cancel</string>
+    <string name="title_activity_web_view1">SBHX</string>
+    <string name="word_map">Map</string>
 
 </resources>

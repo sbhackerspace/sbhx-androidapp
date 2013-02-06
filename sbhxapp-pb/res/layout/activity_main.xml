@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="50dp"
+        android:layout_marginBottom="25dp"
         android:orientation="vertical" >
 
         <Button
@@ -34,14 +34,13 @@
             android:layout_height="wrap_content"
             android:text="@string/word_wiki"
             android:textColor="@color/lime" />
-        
         <Button 
-            android:id="@+id/homeButton4"
+            android:id="@+id/homeButtonMap"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="@string/about_us"
-            android:textColor="@color/lime" />
-	   
+            android:text="@string/word_map"
+            android:textColor="@color/lime"/>
+        	   
     </LinearLayout>
 
     <TextView
@@ -55,17 +54,6 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:textColor="@color/lime"
         android:textSize="24sp" />
-
-    <!-- <TextView -->
-    <!-- android:id="@+id/textView2" -->
-    <!-- android:layout_width="wrap_content" -->
-    <!-- android:layout_height="wrap_content" -->
-    <!-- android:layout_below="@+id/textView1" -->
-    <!-- android:layout_centerHorizontal="true" -->
-    <!-- android:layout_marginTop="16dp" -->
-    <!-- android:text="@string/motto" -->
-    <!-- android:textStyle="italic" /> -->
-
 
 
 </RelativeLayout>
